@@ -1,3 +1,6 @@
+Project: Campaign Marketing
+We will use the dataset and it is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict whether the client will subscribe (Yes/No) to a term deposit
+ The dataset includes 17 attribute and about 11163 record.
 ●	Input :
 -	Age : Tuổi
 -	Job : Công việc
