@@ -18,5 +18,5 @@
 -	Pday: số ngày trải qua sau khi khách hàng được liên hệ lần cuối trong một chiến dịch trước đó
 -	Previous: số lượng cuộc gọi được thực hiện trước chiến dịch này và cho khách hàng này
 -	Poutcome: Kết quả của chiến dịch tiếp thị trước đó
-●	Output:
+●	Output :
 - Deposit: khách hàng đã đăng kí 1 khoản tiền gửi có hạn chưa ? (có / không)
